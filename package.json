@@ -6,7 +6,7 @@
   "homepage": "https://github.com/RaphaelSBarros/react-portfolio",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r git@github.com:RaphaelSBarros/react-portfolio",
+    "deploy": "gh-pages -d dist -r git@github.com:RaphaelSBarros/react-portfolio.git",
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
