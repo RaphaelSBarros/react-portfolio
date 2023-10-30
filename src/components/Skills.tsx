@@ -8,6 +8,12 @@ export default function Skills() {
     {
       name: "Curso de Desenvolvimento Web Full Stack | B7Web",
     },
+    {
+      name: "Curso de Desenvolvimento Web e de Sistemas | Senac",
+    },
+    {
+      name: "Curso de Ingês Avançado | Senac",
+    },
   ]
 
   const skills = [
