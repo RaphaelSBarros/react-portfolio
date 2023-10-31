@@ -44,7 +44,7 @@ export default function Contact() {
     {
       name: "WhatsApp",
       description: "+55 47 99611-3876",
-      link: "https://wa.me/5547996113876?text=Olá...",
+      link: "https://wa.me/554796113876?text=Olá...",
       icon: <FaWhatsapp className="h-10 w-10" />,
     },
     {
