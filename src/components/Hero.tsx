@@ -18,19 +18,17 @@ export default function Hero() {
             Desenvolvedor Full Stack apaixonado por transformar ideias em código de ponta e experiências digitais incríveis!
           </p>
           <div className="flex items-center justify-center gap-2">
-            <a href="#" className="underline font-bold text-white">
+            <a href="#contact" className="underline font-bold text-white">
               Fale comigo
             </a>
             <span className="italic text-gray-500">ou</span>
-            <a href="#" className="button text-gray-600 hover:text-gray-900 flex items-center gap-2">
+            <a href="src\components\cv-raphael.pdf" download className="button text-gray-600 hover:text-gray-900 flex items-center gap-2">
               <HiDownload />
               Baixe meu CV
             </a>
           </div>
         </div>
-        <div className="basis-1/2 text-white">
-          
-        </div>
+        <div className="basis-1/2 text-white"></div>
       </div>
     </section>
   )
