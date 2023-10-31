@@ -22,7 +22,7 @@ export default function Hero() {
               Fale comigo
             </a>
             <span className="italic text-gray-500">ou</span>
-            <a href="src\components\cv-raphael.pdf" download className="button text-gray-600 hover:text-gray-900 flex items-center gap-2">
+            <a href="./images/cv-raphael.pdf" download className="button text-gray-600 hover:text-gray-900 flex items-center gap-2">
               <HiDownload />
               Baixe meu CV
             </a>
