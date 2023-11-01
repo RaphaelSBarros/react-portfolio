@@ -10,6 +10,22 @@ export default function Projects() {
       link: "https://raphaelsbarros.github.io/rick-and-morty/",
       colSpan: "col-span-1",
     },
+    {
+      title: "Projeto Pizzaria",
+      description: "Projeto feito no curso de javascript pela B7Web",
+      image:
+        "https://raphaelsbarros.github.io/ProjetosJavaScript/Pizzaria/img.PNG",
+      link: "https://raphaelsbarros.github.io/ProjetosJavaScript/Pizzaria/",
+      colSpan: "col-span-1",
+    },
+    {
+      title: "Projeto Jogo da Velha",
+      description: "Projeto feito no curso de javascript pela B7Web",
+      image:
+        "https://raphaelsbarros.github.io/ProjetosJavaScript/Jogo%20da%20Velha/img.PNG",
+      link: "https://raphaelsbarros.github.io/ProjetosJavaScript/Jogo da Velha/",
+      colSpan: "col-span-1",
+    },
   ]
 
   return (

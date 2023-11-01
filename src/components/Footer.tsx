@@ -6,11 +6,11 @@ export default function Footer() {
       </p>
       <ul className="flex flex-nowrap gap-2">
         <li>
-          <a href="#">Termos de uso</a>
+          <a href="https://www.linkedin.com/in/raphael-alexsandro-25331a237/"><img src="images/linkedin.svg"/></a>
         </li>
         <li className="text-gray-500">&middot;</li>
         <li>
-          <a href="#">Política de privacidade</a>
+          <a href="https://github.com/RaphaelSBarros"><img src="images/github.svg"/></a>
         </li>
       </ul>
     </div>
