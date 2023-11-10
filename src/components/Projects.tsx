@@ -19,11 +19,11 @@ export default function Projects() {
       colSpan: "col-span-1",
     },
     {
-      title: "Projeto Jogo da Velha",
-      description: "Projeto feito no curso de javascript pela B7Web",
+      title: "Projeto ToDo-List",
+      description: "Projeto feito no curso de React pela B7Web",
       image:
-        "https://raphaelsbarros.github.io/ProjetosJavaScript/Jogo%20da%20Velha/img.PNG",
-      link: "https://raphaelsbarros.github.io/ProjetosJavaScript/Jogo da Velha/",
+        "https://raphaelsbarros.github.io/todo-list/sample.PNG",
+      link: "https://raphaelsbarros.github.io/todo-list/",
       colSpan: "col-span-1",
     },
   ]
