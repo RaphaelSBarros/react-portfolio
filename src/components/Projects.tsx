@@ -26,6 +26,14 @@ export default function Projects() {
       link: "https://raphaelsbarros.github.io/todo-list/",
       colSpan: "col-span-1",
     },
+    {
+      title: "Projeto Calculadora de IMC",
+      description: "Projeto feito no curso de React pela B7Web",
+      image:
+        "https://raphaelsbarros.github.io/react-imc-calc/sample.PNG",
+      link: "https://raphaelsbarros.github.io/react-imc-calc/",
+      colSpan: "col-span-1",
+    },
   ]
 
   return (
